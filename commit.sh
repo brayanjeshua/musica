@@ -1,5 +1,5 @@
 #!/bin/sh
-cd c:/xampp/htdocs/demoproject
+cd c:/Users/Jeshua/Desktop/MATRIMONIO
 git add --all
 timestamp() {
   date +"at %H:%M:%S on %d/%m/%Y"
